@@ -14,8 +14,8 @@ class Caneta:
         self.cor = escolha
         self.tampada = True
 
-    def quebra_linha(self, qdt=1):
-        print('\n' * qtd, end=''
+    def quebra_linha(self, qtd=1):
+        print('\n' * qtd, end='')
 
     def tampar(self):
         self.tampada = True
