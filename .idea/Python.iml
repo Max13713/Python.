@@ -5,11 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Exercicios/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="~\OneDrive\Documents\MeusProjetos\Python\.venv" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="~\AppData\Local\Programs\Python\Python3xx\python.exe" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
-  <component name="PackageRequirementsSettings" />
-  <component name="PyDocumentationSettings" />
-  <component name="ReSTService" />
-  <component name="TestRunnerService" />
 </module>
