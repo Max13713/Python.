@@ -1,0 +1,3 @@
+- [x] teste
+- [ ] coisa
+- [ ] outra coisa
